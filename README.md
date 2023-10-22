@@ -1,4 +1,4 @@
-# Housing-Prices-Prediction
+# Housing Prices Prediction
 Developed a model that predicts price estimates based on properties characteristics and analyzed Boston housing prices dataset using Python. See file "Multivariable_Regression_and_Valuation_Model.ipynb".
 
 # Project Description
